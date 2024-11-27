@@ -5,6 +5,7 @@ head
 <meta charset="UTF-8">
 <meta name="musicworld" content="width=decive-width,initial-scarlet 1.0">
 <title>tarea en clase</title>
+<link 
 </head>
 <body>
 <header>
@@ -15,7 +16,7 @@ head
 <main>
    <div>
    <h2>bienvenidos a musicworld</h2>
-   </>
+   <p>mantente siempre pendiente de todo el contenido que estaremos subiendo<>
 
 
 
